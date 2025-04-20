@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='decorator_logger',
-  version='1.0.2',
+  version='1.0.3',
   author='argentumx',
   author_email='example@gmail.com',
   description='Simple decorator-logger',
