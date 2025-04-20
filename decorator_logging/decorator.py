@@ -1,8 +1,8 @@
 from functools import wraps
 from loguru import logger
 
-from decorator_logging.decorator_logging.log_level import LogLevel
-from decorator_logging.decorator_logging.log_timing import LogTiming
+from decorator_logger.decorator_logging.log_level import LogLevel
+from decorator_logger.decorator_logging.log_timing import LogTiming
 
 
 class SyncLoggable:

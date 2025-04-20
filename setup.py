@@ -8,13 +8,13 @@ def readme():
 
 setup(
   name='decorator_logger',
-  version='1.0.0',
+  version='1.0.2',
   author='argentumx',
   author_email='example@gmail.com',
   description='Simple decorator-logger',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='https://github.com/ArgentumX/decorator_logging',
+  url='https://github.com/ArgentumX/decorator-logger-library',
   packages=find_packages(),
   install_requires=['loguru>=0.7.3'],
   classifiers=[
